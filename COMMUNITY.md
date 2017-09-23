@@ -10,11 +10,11 @@ We value suggestions and constructive criticism, which should be properly handle
 
 We want a community where we can:
 
-- be ourselves, without fear of being harmed because of our differences;
-- find people whom we can trust and be friends with;
-- talk about everyday stuff, from meaningless things to profound philosophical reflections;
-- talk about Hacker Experience, share strategies, ask questions, meet players;
-- contribute to Hacker Experience, suggest features, report bugs, talk to developers.
+- Be ourselves, without fear of being harmed because of our differences;
+- Find people whom we can trust and be friends with;
+- Talk about everyday stuff, from meaningless things to profound philosophical reflections;
+- Talk about Hacker Experience, share strategies, ask questions, meet players;
+- Contribute to Hacker Experience, suggest features, report bugs, talk to developers.
 
 ## Code of Conduct (CoC)
 
