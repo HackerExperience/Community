@@ -1,6 +1,6 @@
 # Community Management Resources
 
-Every team should have a curated list of resources used and recommended by developers and contributors. If someone wants to learn more about a relevant subject, checking the material provided on this file is a good start.
+Every team should have a curated list of resources used and recommended by developers and contributors. If one of the users wants to learn more about a relevant subject, checking the material provided on this file would be a good start for them.
 
 Resources might be curated by Developers ("Official") or by the Community itself. Not all resources are free, but we should aim to have at least one free resource for every subject.
 
