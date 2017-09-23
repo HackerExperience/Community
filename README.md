@@ -29,5 +29,5 @@ You might be interested on contributing to different teams within the project. F
 The Community Management team is composed by three members:
 
 - **Lead Community Manager** - [Ghaleon](https://github.com/ghaleon-dax) [(email)](mailto:ghaleon@hackerexperience.com)
-- **Supporting Community Manager 1** - TBD
-- **Supporting Community Manager 2** - TBD
+- **Supporting Community Manager 1** - This has yet to be decided (TBD)
+- **Supporting Community Manager 2** - This has yet to be decided (TBD)
