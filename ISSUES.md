@@ -8,8 +8,8 @@ This document outlines the standard way we tag and categorize issues within a re
 
 Issues may use any of the following two labels to increase/decrease priority:
 
-- `Priority:High`
-- `Priority:Low`
+- `Priority:High` - This can be used for sitautaions that require assistance and should be proritised over other issues without this tag
+- `Priority:Low` - Issues with this tag are not needing instant attention but show some importance
 
 If an issue has normal priority, our recommendation is to simply not add any label to it. It reduces visual bloat and implies that the issue is neither low- nor high-priority.
 
