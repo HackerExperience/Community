@@ -115,6 +115,7 @@ All teams must:
 
 - Assess the efficiency and ways to optimize inter- and intra-team communication.
 - Assess ways to improve public-facing communications.
+- Assess ways that we an communicate from company to the user and the proper demographic.
 
 [Repository](https://github.com/HackerExperience/Community)
 
@@ -137,6 +138,6 @@ All teams must:
 
 ## Becoming a member
 
-First, please fill the [CTF form](). It helps us assess our contributor's profile. Finally, head to [our chat server](https://chat.hackerexperience.com). It's where all communication happens. We also have lengthy discussions on Github repositories.
+First, please fill the [CTF form](TODOform). It helps us assess our contributor's profile. Finally, head to [our chat server](https://chat.hackerexperience.com). It's where all communication happens. We also have lengthy discussions on Github repositories.
 
 During this initial phase, *please be patient*. The best way you can help right now is to propose *how* we can tackle and achieve these goals. The CTF plan is experimental, and it has just been released. Initially we'll discuss in details how each team can achieve their goals. This means that, for the first 2 weeks, all of CTF's effort is to *plan* for the future. Once we have things figured out, we'll send an invitation email to all contributors who declared interest on the [Let's Build a Game](https://letsbuildagame.org) campaign.
